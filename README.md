@@ -1,5 +1,5 @@
 # SME Customers Churn Prediction
-## A Data Science & Advance Analytics Program from BCG
+## A Data Science & Advance Analytics Program from Boston Consulting Group
 
 A major gas and electricity utility company PowerCo that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 One of the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it is possible to predict customers likely to churn using a predictive model. The client also wants to try a discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective.
